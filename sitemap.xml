@@ -3,17 +3,17 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://blog.dionyziz.com/categories/</loc>
+    <loc>https://dionyziz.github.io/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://blog.dionyziz.com/tags/</loc>
+    <loc>https://dionyziz.github.io/tags/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://blog.dionyziz.com/</loc>
+    <loc>https://dionyziz.github.io/</loc>
     <priority>0</priority>
   </url>
   
